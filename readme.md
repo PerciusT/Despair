@@ -1,9 +1,12 @@
 This is an open source theme for better discord by .destiny101
-<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/d03092a2-3cbf-461a-ad51-77ffb8d7f509" />
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/97231da6-1157-478a-8277-77d91b5f2b8b" />
+
 Server appearance
-<img width="1602" height="999" alt="image" src="https://github.com/user-attachments/assets/eb037993-29ef-4126-889c-70c97216fa8e" />
+<img width="1615" height="1035" alt="image" src="https://github.com/user-attachments/assets/0cd222ff-ea57-41ff-9149-fdb55aef051b" />
+
 Friends and activity
-<img width="1621" height="1047" alt="image" src="https://github.com/user-attachments/assets/48101ef2-e25a-4c43-bf44-5cac5118bac1" />
+<img width="1621" height="1047" alt="image" src="https://github.com/user-attachments/assets/0ab5c5e1-4627-4d97-9068-ac23a5ae9e49" />
+
 
 DMs
 
