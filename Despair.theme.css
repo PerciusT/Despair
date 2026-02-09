@@ -14,8 +14,8 @@
 
 
 :root {
-  --despair-bg: url(https://media.discordapp.net/attachments/780108612495474698/1469395250286952570/cf64e91d-6106-47cc-8e68-808956494a67_2.png?ex=69878077&is=69862ef7&hm=0ddc4b70ec5ac9295946efb88952c495f363d6525e5c9a5401e7ab0a4fe9d881&=&format=webp&quality=lossless);
-  --despair-home-icon: url(https://media.discordapp.net/attachments/780108612495474698/1469415258404819171/3c461e85-11df-4200-bd9d-d973c49697bb-removebg-preview.png?ex=6987931a&is=6986419a&hm=8c2dabbef63b8bd35bcd38f6b322373418dc903d72c120269c58467fda4ac011&=&format=webp&quality=lossless);
+  --despair-bg: url(https://iili.io/fp8ScFt.md.png);
+  --despair-home-icon: url(https://i.ibb.co/qMJ24X2P/3c461e85-11df-4200-bd9d-d973c49697bb-removebg-preview.png);
   --despair-color1: #d0abf5;
   --despair-color2: rgb(63, 28, 66);
   --despair-color3: #A033A4;
@@ -1117,13 +1117,18 @@ color: var(--despair-color1);
 }
 
 .overlay_c0bea0{
-  background-color: var(--despair-color4);
-border-radius: 16px;
+  background-color:color-mix(
+  in srgb,
+  var(--despair-color4) 35%,
+  transparent
+);
+/*border-radius: 16px;
 box-shadow: 0 1px 5px var(--despair-color1);
-backdrop-filter: blur(8.1px);
+backdrop-filter: blur(8.1px)
 -webkit-backdrop-filter: blur(5.1px);
-border: 1px solid var(--despair-color1);
+border: 1px solid var(--despair-color1);*/
 color: var(--despair-color1);
+
 }
 
 .menu_c1e9c4 {
